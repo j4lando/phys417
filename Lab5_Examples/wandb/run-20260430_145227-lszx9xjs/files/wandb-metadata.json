@@ -1,0 +1,38 @@
+{
+  "os":  "macOS-26.4.1-arm64-arm-64bit-Mach-O",
+  "python":  "CPython 3.14.0",
+  "startedAt":  "2026-04-30T21:52:27.605458Z",
+  "program":  "/Users/jlando/Documents/GitHub/phys417/Lab5_Examples/Lab5_Example.ipynb",
+  "codePath":  "/Users/jlando/Documents/GitHub/phys417/Lab5_Examples/Lab5_Example.ipynb",
+  "codePathLocal":  "Lab5_Example.ipynb",
+  "git":  {
+    "remote":  "https://github.com/j4lando/phys417.git",
+    "commit":  "1625606812ae4ffde239fdda7ce5b004c8b28729"
+  },
+  "email":  "b6k4pq9yqk@privaterelay.appleid.com",
+  "root":  "/Users/jlando/Documents/GitHub/phys417/Lab5_Examples",
+  "host":  "Joshs-MacBook-Air-172.local",
+  "executable":  "/Users/jlando/Documents/GitHub/phys417/.venv/bin/python",
+  "cpu_count":  10,
+  "cpu_count_logical":  10,
+  "disk":  {
+    "/":  {
+      "total":  "994662584320",
+      "used":  "276327612416"
+    }
+  },
+  "memory":  {
+    "total":  "34359738368"
+  },
+  "apple":  {
+    "name":  "Apple M4",
+    "ecpuCores":  6,
+    "pcpuCores":  4,
+    "gpuCores":  10,
+    "memoryGb":  32,
+    "swapTotalBytes":  "2147483648",
+    "ramTotalBytes":  "34359738368",
+    "macModel":  "Mac16,13"
+  },
+  "writerId":  "0qr46ixdtkq0clbg1olyydvbqs2cbc1v"
+}
